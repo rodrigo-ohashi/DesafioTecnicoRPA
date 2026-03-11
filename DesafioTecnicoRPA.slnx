@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="docker-compose.yml" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="API/API.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="RPA/Worker.csproj" />
+</Solution>
